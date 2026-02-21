@@ -23,3 +23,8 @@ As a proud member of the Maasai community and an aspiring Software Developer, I 
 ## 📫 Connect with Me
 * **LinkedIn:** [Mandela Sankale Pulei](https://www.linkedin.com/in/sankalepulei)
 * **Email:** [mandelapulei@gmail.com](mailto:puleisankale@gmail.com)
+
+## 🛠️ Technical Toolbox
+* [cite_start]**Languages:** Python (Pandas, NumPy, Seaborn), R (Tidyverse), SQL 
+* [cite_start]**Statistics:** Hypothesis Testing, Regression Analysis, ANOVA [cite: 61, 62, 69]
+* [cite_start]**Tools:** STATA, SPSS, Git, GitHub [cite: 58, 65]
