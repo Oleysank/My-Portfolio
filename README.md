@@ -25,6 +25,6 @@ As a proud member of the Maasai community and an aspiring Software Developer, I 
 * **Email:** [mandelapulei@gmail.com](mailto:puleisankale@gmail.com)
 
 ## 🛠️ Technical Toolbox
-* [cite_start]**Languages:** Python (Pandas, NumPy, Seaborn), R (Tidyverse), SQL 
-* [cite_start]**Statistics:** Hypothesis Testing, Regression Analysis, ANOVA [cite: 61, 62, 69]
-* [cite_start]**Tools:** STATA, SPSS, Git, GitHub [cite: 58, 65]
+***Languages:** Python (Pandas, NumPy, Seaborn), R (Tidyverse), SQL 
+* **Statistics:** Hypothesis Testing, Regression Analysis, ANOVA
+* **Tools:** STATA, SPSS, Git, GitHub
